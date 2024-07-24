@@ -1,0 +1,6 @@
+ 
+        <svg width = "300" height = "200" xmlns = "http://www.w3.org/2000/svg" >
+        <polygon points="30, 20, 170, 20, 170, 160, 30, 160" fill="yellow" stroke="black" />
+        <text x="100" y="105" font-size="40" text-anchor="middle" fill="teal">BAR</text>
+        </svg >
+        
