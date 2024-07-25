@@ -1,6 +1,6 @@
  
         <svg width = "300" height = "200" xmlns = "http://www.w3.org/2000/svg" >
-        <polygon points="60, 20, 230, 20, 230, 180, 60, 180" fill="pink" stroke="black" />
-        <text x="143" y="110" font-size="40" text-anchor="middle" fill="yellow">EF</text>
+        <polygon points="60, 20, 230, 20, 230, 180, 60, 180" fill="purple" stroke="black" />
+        <text x="143" y="110" font-size="40" text-anchor="middle" fill="white">SVG</text>
         </svg >
         
