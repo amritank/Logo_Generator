@@ -16,7 +16,7 @@ describe("Circle", () => {
             const func = () => new Circle("TEST", "green", "yellow");
             const err = new Error("Logo text can only be 3 characters long");
             expect(func).toThrow(err);
-        })
+        });
     })
 })
 

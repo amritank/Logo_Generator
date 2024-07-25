@@ -7,7 +7,7 @@ describe("Square", () => {
             expect(sq.render()).toContain('<polygon points="60, 20, 230, 20, 230, 180, 60, 180" fill="yellow" stroke="black" />');
         });
         test("Should return svg text representing the text in the square logo", () => {
-            const sq = new Square("foo", "teal", "yellow");
+            const sq = new Square("FOO", "teal", "yellow");
             expect(sq.render()).toContain('<text x="143" y="110" font-size="40" text-anchor="middle" fill="teal">FOO</text>');
         })
     });
